@@ -3,7 +3,7 @@ package git;
 public class hello {
 
 	public hello() {
-		// TODO Auto-generated constructor stub
+		System.out.println("this is a git");
 	}
 
 }
